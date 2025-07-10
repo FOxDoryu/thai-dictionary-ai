@@ -1,0 +1,5 @@
+wikipedia
+streamlit
+gTTS
+fuzzywuzzy
+python-Levenshtein
